@@ -1,25 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A sample api application for using the MongoDb.
 
 Things you may want to cover:
 
-* Ruby version
+* ruby 2.6.3p62 
 
-* System dependencies
+* Rails 6.0.3.4
 
-* Configuration
+* MogoDB
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# MongoDbSample
+* RSpec Testing
